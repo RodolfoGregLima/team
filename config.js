@@ -1,7 +1,7 @@
 // Aqui fica a configuração com o banco de dados
 var config = {
     user: 'bandtec',
-    password: 'Rodolfolink911',
+    password: '',
     server: 'insensorserver.database.windows.net', // You can use 'localhost\\instance' to connect to named instance
     database: 'IncubadorasDB',
 
